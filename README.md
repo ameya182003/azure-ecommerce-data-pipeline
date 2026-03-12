@@ -104,7 +104,3 @@ The pipeline follows the **Medallion Architecture** approach.
 - Implementing **Medallion Architecture**
 - Orchestrating pipelines with **Azure Data Factory**
 - Integrating **Databricks, ADLS, and Synapse**
-
-## 📚 Acknowledgement
-
-This project was implemented as part of a **Data Engineering learning project inspired by a Udemy course**.
