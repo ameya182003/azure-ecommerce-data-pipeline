@@ -1,4 +1,4 @@
-# Azure Data Pipeline for Multi-Source Data
+# Scalable Azure Data Pipeline for Mult-Source Ingestion and Analytics
 
 ## 📌 Project Overview
 This project demonstrates an **end-to-end Azure Data Engineering pipeline** built using **PySpark and Azure services** to process the Brazilian E-commerce dataset.
